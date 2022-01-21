@@ -20,3 +20,5 @@ Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Suppo
 > ls
 
 > bash wifi-hacker.sh
+
+Bab
